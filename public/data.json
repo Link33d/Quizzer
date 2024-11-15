@@ -1,0 +1,32 @@
+{
+    "quiz_name": "Teste!",
+    "questions": [
+        {
+            "question": "Quanto é 1+1?",
+            "alternatives": [
+                "2",
+                "11",
+                "sqrt(-1)",
+                "IGiveUp"
+            ]
+        },
+        {
+            "question": "Durante a Primeira Guerra Mundial (1914-1918), as alianças entre as potências europeias foram decisivas para a escalada do conflito. Inicialmente, os países se organizaram em duas alianças principais: a Tríplice Entente e a Tríplice Aliança. No entanto, interesses territoriais e estratégicos fizeram com que alguns países mudassem de lado ao longo do conflito. Considerando o papel da Itália, qual das alternativas abaixo melhor descreve sua participação na guerra?",
+            "alternatives": [
+                "A Itália, membro da Tríplice Aliança com a Alemanha e o Império Austro-Húngaro, manteve-se neutra nos primeiros anos devido a disputas territoriais com a Áustria-Hungria. Em 1915, aderiu à Tríplice Entente após o Tratado de Londres, que prometia territórios adicionais.",
+                "A Itália iniciou a guerra com a Tríplice Entente, mas em 1916 negociou um armistício com a Alemanha devido a grandes perdas, mudando de lado para os Impérios Centrais.",
+                "A Itália declarou guerra à Alemanha e à Áustria-Hungria em 1914, buscando unificar territórios culturalmente italianos sob domínio austríaco, mantendo sua posição na Tríplice Entente.",
+                "A Itália permaneceu neutra durante toda a guerra, adotando uma política isolacionista e evitando envolvimento para reduzir os custos humanos e materiais."
+            ]
+        },
+        {
+            "question": "Quem é lanoyin?",
+            "alternatives": [
+                "Um youtuber famoso",
+                "Amigo da thais carla",
+                "Sla",
+                "Ele não gosta de minecaft mobile"
+            ]
+        }
+    ]
+}
